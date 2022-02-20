@@ -38,6 +38,5 @@ echo -e "\033[31m           0000\033[0m_____________0000________0000000000000000
 
 echo "Now show me the url to that fire beat"
 read URL
-cd /Users/hackintoch/Downloads/beats
 youtube-dl -f 140  $URL 
 fi
